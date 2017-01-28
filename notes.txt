@@ -1,0 +1,8 @@
+You can choose whether you want to use the speed or not. To begin with drive.py just sets a constant speed, which works fine, so you don't need to do anything specific with speed if you don't want to.  You don't need to one-hot encode for this because it isn't a classification problem. It is a regression so you want to predict a continuous output instead of a discrete class.
+
+Regression problem.
+
+
+https://medium.com/@billzito/my-first-self-driving-car-e9cd5c04f0f2#.kg0og8cmq
+
+

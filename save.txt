@@ -1,0 +1,5 @@
+center,left,right,steering,throttle,brake,speed
+/home/yipstar/sdc/projects/simulator/50hz_data/IMG/center_2017_01_12_2
+0_44_11_071.jpg, /home/yipstar/sdc/projects/simulator/50hz_data/IMG/le
+ft_2017_01_12_20_44_11_071.jpg, /home/yipstar/sdc/projects/simulator/5
+0hz_data/IMG/right_2017_01_12_20_44_11_071.jpg, 0, 0, 0, 8.018107E-05
